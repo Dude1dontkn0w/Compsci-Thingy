@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<title> Poem #1 </title>
+<head>
+<style>
+a:link{
+color:#A29D34;
+}
+a:hover{
+color: rgb(225, 220, 129);
+}
+a:visited{
+color:black;
+}
+body{
+background-color:#8D8632;
+}
+.lenk{
+text-align:center;
+border: 25px solid #C3B727;
+background-color:#5A573B;
+color:#000000;
+}
+.poem{
+text-align:center;
+color:#DDD537;
+font-family: 'Brush Script MT', cursive;
+}
+</style>
+</head>
+<div class="lenk">
+<body>
+<h3> <a href="file:///D:/SCHOOL.%20THIS%20IS%20FOR%20SCHOOL!/gred%20nein/comp%20say/Needed%202/content/b.html" alt="b.html"> Poem 2: Electric Boogaloo </a> </h3>
+<h3> <a href="file:///D:/SCHOOL.%20THIS%20IS%20FOR%20SCHOOL!/gred%20nein/comp%20say/Needed%202/content/c.html" alt="c.html"> Poem 3: The one that broke the shelves </a> </h3>
+<h3> <a href="file:///D:/SCHOOL.%20THIS%20IS%20FOR%20SCHOOL!/gred%20nein/comp%20say/Needed%202/Needed.html"> Back home? </a> </h3>
+</div>
+<h1> Mood </h1>
+<div class="poem">
+<p> 
+Do you really matter at all? <br>
+Maybe we need to find out why is that <br>
+So that we could quest and go stall <br>
+Looking for the answer, out in the world we cant recall <br>
+ <br>
+Do things really happen in balance? <br>
+What about the things that happened no one solved, <br>
+Trapped in eternal imbalance <br>
+Still no answer, what if we couldn't find one? <br>
+ <br>
+Standards set at high disregard, <br>
+No one can achieve <br>
+No matter how one works hard into the night <br>
+We really can’t, there is no purpose other than hard. <br>
+ <br>
+Things never change, how hard you adapt <br>
+Why it happens, no one can draft <br>
+The only thing that one can do in these times of need <br>
+Is to help others that are around in wake up from their sleep. <br>
+What if I couldn’t even try to help them get up? <br>
+All hope is lost, the end is near, we have already given up <br>
+ <br>
+Why will no one ever see me? <br>
+maybe, im just a shadow working at the seems <br>
+Finding my purpose under the moon <br>
+What if no one finds me? <br>
+When I stray out too far from thee <br>
+ <br>
+Will I be able to survive? <br>
+After all these problems <br>
+And the too-high stuff I strive, <br>
+Maybe I shouldn’t but I do <br>
+I cannot really stop, <br>
+“As the potential is in me.” <br>
+ <br>
+Forever alone, always striving for the impossible <br>
+Never waking up from doing all of these impossibles <br>
+Still in there, soundly sleeping <br>
+Waiting for the banging ending <br>
+Doing whatever I can with materials at the seams <br>
+</p>
+</div>
+<h4 style="text-align:center;"> <a href="https://youtu.be/-jUXOd14aSI"> Play in tune with this </a> </h4>

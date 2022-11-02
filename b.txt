@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<title> Poem #2 </title>
+<head>
+<style>
+a:link{
+color:#3E9EBE;
+}
+a:hover{
+color: rgb(65, 121, 128);
+}
+a:visited{
+color: #3E9EBE;
+}
+.lenk{
+text-align:center;
+border: 15px solid #608895;
+background-color:#2C5A69;
+color:#3E9EBE;
+}
+.poem{
+text-align:center;
+color:#0D7DA2;
+font-family:'Times New Roman', serif;
+}
+</style>
+</head>
+<div class="lenk">
+<body>
+<h3> <a href="file:///D:/SCHOOL.%20THIS%20IS%20FOR%20SCHOOL!/gred%20nein/comp%20say/Needed%202/content/a.html" alt="a.html"> Poem 1: A New Hope </a> </h3>
+<h3> <a href="file:///D:/SCHOOL.%20THIS%20IS%20FOR%20SCHOOL!/gred%20nein/comp%20say/Needed%202/content/c.html" alt="c.html"> Poem 3: The one that broke the shelves </a> </h3>
+<h3> <a href="file:///D:/SCHOOL.%20THIS%20IS%20FOR%20SCHOOL!/gred%20nein/comp%20say/Needed%202/Needed.html"> Back home? </a> </h3>
+<h1> "Never Gonna Give You Up" </h1>
+</div>
+<div class="poem">
+<p> 
+We're no strangers to love <br>
+You know the rules and so do I <br>
+A full commitment's what I'm thinking of <br>
+You wouldn't get this from any other guy <br>
+
+I just wanna tell you how I'm feeling <br>
+Gotta make you understand <br>
+
+Never gonna give you up <br>
+Never gonna let you down <br>
+Never gonna run around and desert you <br>
+Never gonna make you cry <br>
+Never gonna say goodbye <br>
+Never gonna tell a lie and hurt you <br>
+
+We've known each other for so long <br>
+Your heart's been aching, but <br>
+You're too shy to say it <br>
+Inside, we both know what's been going on <br>
+We know the game and we're gonna play it <br>
+
+And if you ask me how I'm feeling <br>
+Don't tell me you're too blind to see <br>
+
+Never gonna give you up <br>
+Never gonna let you down <br>
+Never gonna run around and desert you <br>
+Never gonna make you cry <br>
+Never gonna say goodbye <br>
+Never gonna tell a lie and hurt you <br>
+
+Never gonna give you up <br>
+Never gonna let you down <br>
+Never gonna run around and desert you <br>
+Never gonna make you cry <br>
+Never gonna say goodbye <br>
+Never gonna tell a lie and hurt you <br>
+
+(Ooh, give you up) <br>
+(Ooh, give you up) <br>
+Never gonna give, never gonna give <br>
+(Give you up) <br>
+Never gonna give, never gonna give <br>
+(Give you up) <br>
+
+We've known each other for so long <br>
+Your heart's been aching, but <br>
+You're too shy to say it <br>
+Inside, we both know what's been going on <br>
+We know the game and we're gonna play it <br>
+
+I just wanna tell you how I'm feeling <br>
+Gotta make you understand <br>
+
+Never gonna give you up <br>
+Never gonna let you down <br>
+Never gonna run around and desert you <br>
+Never gonna make you cry <br>
+Never gonna say goodbye <br>
+Never gonna tell a lie and hurt you <br>
+
+Never gonna give you up <br>
+Never gonna let you down <br>
+Never gonna run around and desert you <br>
+Never gonna make you cry <br>
+Never gonna say goodbye <br>
+Never gonna tell a lie and hurt you <br>
+
+Never gonna give you up <br>
+Never gonna let you down <br>
+Never gonna run around and desert you <br>
+Never gonna make you cry <br>
+Never gonna say goodbye <br>
+Never gonna tell a lie and hurt you <br>
+</p>
+</div>
+<h4 style="text-align: center";> By Rick Astley @Copyrighted and stuff </h4>
